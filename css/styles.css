@@ -19,7 +19,7 @@ header
     padding: 20px 50px;
     background-color: #333;
     display: flex; 
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     box-sizing: border-box;
 }
@@ -52,16 +52,20 @@ header i img
 {
     width: 100%;
     font-weight: 600;
-    font-size: 30px;
+    font-size: 60px;
+    font-style: italic;
     margin: 10px;
+    color: #e80e0e;
 }
 
 .banner p
 {
     width: 100%;
     margin: 0 auto;
-    font-size: 25px;
-    opacity: 0.7;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color: #e80e0e;
 }
 
 .products
@@ -82,8 +86,8 @@ header i img
 
 .products img
 {
-    width: 200px;
-    margin-bottom: 15px;
+    width: 210px;
+    border-radius: 5px;
 }
 
 .products h2
@@ -91,12 +95,19 @@ header i img
     font-weight: 500;
     font-size: 17px;
     margin-bottom: 5px;
+    color: #0000ff;
 }
 
 .products p
 {
-    font-weight: 300;
+    font-weight: bold;
     font-size: 15px;
+    color: #0000ff;
+}
+
+.products h3
+{
+    color: #0000ff;
 }
 
 .cart
@@ -120,6 +131,13 @@ header i img
     font-weight: 600;
     padding: 25px 0;
     box-sizing: border-box;
+    color: #0000ff;
+}
+
+.cart p
+{
+    color: #0000ff;
+    font-weight: bold;
 }
 
 .cart div
