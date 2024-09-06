@@ -54,7 +54,7 @@ header i img
     font-weight: 600;
     font-size: 60px;
     margin: 10px;
-    color: #e80e0e;
+    color: #fff;
 }
 
 .banner p
@@ -62,7 +62,7 @@ header i img
     width: 100%;
     margin: 0 auto;
     font-size: 30px;
-    color: #e80e0e;
+    color: #fff;
 }
 
 .products
