@@ -47,7 +47,7 @@ Este proyecto es una maqueta web de una tienda de comida poblana con una interfa
 
 <img width="1653" height="1080" alt="image" src="https://github.com/user-attachments/assets/63327e8a-5427-4548-a2d4-9174747ecad4" />
 
---
+---
 
 <img width="1517" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d3c24aa-f788-47c2-bc64-377328de4eac" />
 
